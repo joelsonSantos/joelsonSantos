@@ -1,7 +1,3 @@
-Com certeza. Vamos expandir o conteúdo para refletir a profundidade da sua senioridade técnica e acadêmica, mantendo a estrutura do template oficial do GitHub:
-
-## Hi there 👋
-
 I am a **Machine Learning Engineer** and **Data Science Instructor** dedicated to building and scaling high-impact data products. My expertise spans the entire AI lifecycle, from exploratory research to deploying robust MLOps infrastructure in production environments.
 
 - 🔭 **I’m currently working on**: Leading technical initiatives at **Jusbrasil** as a Staff ML Engineer.
